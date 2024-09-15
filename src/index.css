@@ -1,0 +1,44 @@
+/* No seu arquivo CSS */
+/* @import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css"; */
+
+
+/* :root { */
+  /* background: #2F3329; */
+  /* --text: #F5F9FF;
+  --success: #0BB07B;
+  --message: #2962FF;
+  --information: #E0E0E0;
+  --error: #F03D3D;
+  --warning: #FFCE52;
+
+  --darck-100: #0E131E;
+  --darck-200: #1A1C15;
+  --darck-300: #1B2838;
+  --darck-400: #AAAAAA;
+
+
+  --blue-100: #0065AD;
+  --blue-200: #007CD6;
+  --blue-300: #0094FF;
+  --blue-400: #2EA7FF;
+  --blue-500: #5CBAFF;
+  --blue-600: #8ACEFF;
+
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: var(--darck-100);
+  color: var(--text);
+}
+body, h2, p, input, button, a {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+} */
