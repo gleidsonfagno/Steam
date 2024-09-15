@@ -87,7 +87,7 @@ export const SectionRelease = styled.section`
     }
   }
 
-  @media (max-width: 320px) {
+  @media (max-width: 375px) {
     div {
       grid-template-columns: repeat(1, 1fr);
     gap: 32px;
